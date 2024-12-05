@@ -1,0 +1,12 @@
+@media (min-width: 320px) and (max-width: 480px) {
+    .btn3{
+        padding-left: none;
+        
+    }
+    .picture{
+        width: 312px;
+     }
+     .picture2{
+        width: 430px;
+     }
+}
